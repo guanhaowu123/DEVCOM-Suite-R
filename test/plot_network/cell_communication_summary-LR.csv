@@ -1,0 +1,11 @@
+,Bergmann_glial_cell,B_cell,Club_cell,Erythroid_cell,Endothelial_cell,GABAergic_neuron,Interneuron,Neural_stem_cell,Stem_cell,Tanycyte
+Bergmann_glial_cell,84,42,41,64,53,54,61,53,50,56
+B_cell,47,85,34,52,44,45,49,42,41,47
+Club_cell,49,39,79,56,46,47,53,43,43,52
+Erythroid_cell,57,43,42,85,53,55,60,53,51,57
+Endothelial_cell,46,34,33,51,82,44,49,41,40,45
+GABAergic_neuron,56,43,41,62,52,81,59,52,51,56
+Interneuron,53,40,38,61,51,51,84,50,47,53
+Neural_stem_cell,60,45,43,70,57,58,65,76,53,62
+Stem_cell,50,39,36,58,48,48,54,48,80,51
+Tanycyte,58,45,43,66,55,56,63,55,52,84
