@@ -1,7 +1,9 @@
 Package: DEVCOMSuiteR
 Type: Package
 Title: DEVCOM Suite R Utilities
-Version: 0.1.1
+
+Version: 0.1.0
+>>>>>>> 4016d2f908b3fe28eac43bd2fe8cac8607ec1267
 Authors@R: 
     person("Haowu", "Guan", email = "1367837156@qq.com", role = c("aut", "cre"))
 Description: R helper functions for DEVCOM Suite (cell-cell communication analysis).
@@ -9,7 +11,10 @@ License: MIT
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
-Depends: R (>= 4.1.0)
+
+=======
+Depends: R (>= 4.3.0)
+>>>>>>> 4016d2f908b3fe28eac43bd2fe8cac8607ec1267
 Suggests:
     testthat
 LazyData: true
