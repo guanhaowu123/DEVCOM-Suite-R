@@ -1,7 +1,7 @@
 Package: DEVCOMSuiteR
 Type: Package
 Title: DEVCOM Suite R Utilities
-Version: 4.3.1
+Version: 0.1.0
 Authors@R: 
     person("Haowu", "Guan", email = "1367837156@qq.com", role = c("aut", "cre"))
 Description: R helper functions for DEVCOM Suite (cell-cell communication analysis).
