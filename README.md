@@ -9,4 +9,4 @@ remotes::install_local("xxxx/DEVCOM-Suite-R-main.zip")
 library(DEVCOMSuiteR)
 ```
 
-+ 
++ https://devcom.readthedocs.io/en/latest/
